@@ -38,7 +38,7 @@
  2035  git branch -D cs
  2036  git status
  2037  git checkout -b cs
- 2038  git status
+ 2038  git reset d863 --hard
  2039  git log
  2040  git status
  2041  git add main.cpp 
