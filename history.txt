@@ -1,4 +1,4 @@
- 1999  mkdir git-majonez
+ 1998  mkdir git-majonez
  1999  cd git-majonez
  2000  touch main.cpp
  2001  git init
